@@ -280,6 +280,26 @@
 				]
 			},
 			"last_updated": "1756913044"
-		}
+		},
+		"15": {
+            "title": "Volume 2 Chapter 4",
+            "volume": "2",
+            "groups": {
+                "Full Moon Cafe": [
+                    "https://full-moon-cafe.up.railway.app/star/vol02/ch04/01.png",
+					"https://full-moon-cafe.up.railway.app/star/vol02/ch04/02.png",
+					"https://full-moon-cafe.up.railway.app/star/vol02/ch04/03.png",
+					"https://full-moon-cafe.up.railway.app/star/vol02/ch04/04.png",
+					"https://full-moon-cafe.up.railway.app/star/vol02/ch04/05.png",
+					"https://full-moon-cafe.up.railway.app/star/vol02/ch04/06.png",
+					"https://full-moon-cafe.up.railway.app/star/vol02/ch04/07.png",
+					"https://full-moon-cafe.up.railway.app/star/vol02/ch04/08.png",
+					"https://full-moon-cafe.up.railway.app/star/vol02/ch04/09.png",
+					"https://full-moon-cafe.up.railway.app/star/vol02/ch04/10.png",
+					"https://full-moon-cafe.up.railway.app/star/vol02/ch04/11.png",	
+                ]
+            },
+            "last_updated": "1757223930"
+        },
 	}
 }
