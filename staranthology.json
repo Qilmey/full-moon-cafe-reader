@@ -344,7 +344,26 @@
 				]
 			},
 			"last_updated": "1758087530"
-
+		},
+		"17": {
+            "title": "Volume 2 Chapter 7",
+            "volume": "2",
+            "groups": {
+                "Full Moon Cafe": [
+                    "https://full-moon-cafe.up.railway.app/star/vol02/Ch07/01.png",
+					"https://full-moon-cafe.up.railway.app/star/vol02/Ch07/02.png",
+					"https://full-moon-cafe.up.railway.app/star/vol02/Ch07/03.png",
+					"https://full-moon-cafe.up.railway.app/star/vol02/Ch07/04.png",
+					"https://full-moon-cafe.up.railway.app/star/vol02/Ch07/05.png",
+					"https://full-moon-cafe.up.railway.app/star/vol02/Ch07/06.png",
+					"https://full-moon-cafe.up.railway.app/star/vol02/Ch07/07.png",
+					"https://full-moon-cafe.up.railway.app/star/vol02/Ch07/08.png",
+					"https://full-moon-cafe.up.railway.app/star/vol02/Ch07/09.png",
+					"https://full-moon-cafe.up.railway.app/star/vol02/Ch07/10.png",
+					"https://full-moon-cafe.up.railway.app/star/vol02/Ch07/11.png"
+				]
+			},
+			"last_updated": "1758087752"
 		}
 	}
 }
