@@ -364,9 +364,8 @@
 				]
 			},
 			"last_updated": "1758088045"
-		}
-	},
-	"19": {
+		},
+		"19": {
             "title": "Volume 2 Chapter 8",
             "volume": "2",
             "groups": {
@@ -388,4 +387,5 @@
 			},
 			"last_updated": "1758088506"
 		},
+	}
 }
